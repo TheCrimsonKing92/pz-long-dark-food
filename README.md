@@ -1,3 +1,3 @@
 # Long Dark Food
 
-Allows food to be refrigerated by outside temperatures
+Adapts Project Zomboid food to be refrigerated by cold temperatures
